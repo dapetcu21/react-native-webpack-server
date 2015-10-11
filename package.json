@@ -41,7 +41,7 @@
   },
   "peerDependencies": {
     "react-native": ">=0.11.0",
-    "webpack": ">=1.8.4"
+    "webpack": "elliottsj/webpack#web-worker-hack"
   },
   "dependencies": {
     "bluebird": "^2.9.24",
